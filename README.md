@@ -52,11 +52,9 @@ contract KaseiCoin is ERC20, ERC20Detailed, ERC20Mintable{
 
 [![Screen-Shot-2022-05-29-at-3-58-01-PM.png](https://i.postimg.cc/Xv8v2M0j/Screen-Shot-2022-05-29-at-3-58-01-PM.png)](https://postimg.cc/kV294p4z)
 
-
   **Remix IDE**
 
 [![Screen-Shot-2022-05-29-at-4-33-27-PM.png](https://i.postimg.cc/Y0V011BQ/Screen-Shot-2022-05-29-at-4-33-27-PM.png)](https://postimg.cc/xNv9QNCd)
-
 
 **METAMASK**
 
